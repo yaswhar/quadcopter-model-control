@@ -1,6 +1,6 @@
-# Quadcopter Simulation Project
+# Quadcopter Simulation Project - Spring 2023
 
-This repository contains files related to my quadcopter simulation project for the Aerospace Robotics course.
+This repository contains files related to my quadcopter simulation project for the Aerial Robotics course.
 
 ## Project Description
 
