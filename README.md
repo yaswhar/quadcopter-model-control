@@ -6,16 +6,17 @@ This repository contains files related to my quadcopter simulation project for t
 
 The goal of this project was to simulate the dynamics and control of a quadcopter drone. Key aspects:
 
-- Deriving and implementing equations of motion
-- Simulating motor speed changes and analyzing drone behavior 
-- Designing control systems (PID) for roll, pitch, yaw and altitude
-- Cascade control system for position control
+- Deriving and implementing equations of motion.
+- Simulating motor speed changes and analyzing drone behavior.
+- Designing control systems (PID) for roll, pitch, yaw and altitude.
+- Cascade control system for position control.
 
 ## Repository Contents
 
-- `simulation_code/`: Folder containing MATLAB/Simulink code files for the simulation
-- `results/`: Output plots showing drone behavior for different test cases 
-- `report/`: Word and PDF file with analysis of simulation results
+- `simulink/`: Folder containing MATLAB/Simulink code files for the simulation.
+- `results/`: Output plots showing drone behavior for different test cases.
+- `CAD/`: CAD files of the designed quadcopter.
+- `report/`: Word and PDF file with analysis of simulation results.
 
 ## Simulation Cases
 
