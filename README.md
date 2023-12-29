@@ -1,6 +1,6 @@
 # Quadcopter Simulation Project - Spring 2023
 
-This repository contains files related to my quadcopter simulation project for the Aerial Robotics course.
+This repository contains files related to my quadcopter simulation project for the Aerial Robotics course, instructed by Dr. Talaeizadeh. Huge shoutout to my friend and teammate, Arshia Rezaei.
 
 ## Project Description
 
